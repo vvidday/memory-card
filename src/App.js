@@ -21,15 +21,13 @@ function App() {
   } 
 
   const updateScore = () => {
-    console.log("ran");
     const current = score[0];
     const old = score[1];
     const high = Math.max(current, old);
     setScore([0, high]);
     
     let text = "";
-    if(current === 12) text = "Congratulations, you win! Well done.";
-    else if(current > old) text = "Game Over! You selected the same picture twice. On the bright side, you achieved a new high-score of " + current + ".";
+    if(current > old) text = "Game Over! You selected the same picture twice. On the bright side, you achieved a new high-score of " + current + ".";
     else if (current === old) text = "Game Over! You selected the same picture twice. You tied your previous best score of " + current +".";
     else text = "Game Over! You selected the same picture twice. Your current high-score is " + old +".";
     
