@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.eceadaa4.chunk.css",
+    "main.js": "/memory-card/static/js/main.faa0977a.chunk.js",
+    "main.js.map": "/memory-card/static/js/main.faa0977a.chunk.js.map",
+    "runtime-main.js": "/memory-card/static/js/runtime-main.4fb1b7bf.js",
+    "runtime-main.js.map": "/memory-card/static/js/runtime-main.4fb1b7bf.js.map",
+    "static/js/2.f9e3e5bb.chunk.js": "/memory-card/static/js/2.f9e3e5bb.chunk.js",
+    "static/js/2.f9e3e5bb.chunk.js.map": "/memory-card/static/js/2.f9e3e5bb.chunk.js.map",
+    "static/js/3.de1c50e9.chunk.js": "/memory-card/static/js/3.de1c50e9.chunk.js",
+    "static/js/3.de1c50e9.chunk.js.map": "/memory-card/static/js/3.de1c50e9.chunk.js.map",
+    "index.html": "/memory-card/index.html",
+    "static/css/main.eceadaa4.chunk.css.map": "/memory-card/static/css/main.eceadaa4.chunk.css.map",
+    "static/js/2.f9e3e5bb.chunk.js.LICENSE.txt": "/memory-card/static/js/2.f9e3e5bb.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/memory-card/static/media/Nunito-Regular.e4eb7682.ttf",
+    "static/media/bear01.79fd6a12.webp": "/memory-card/static/media/bear01.79fd6a12.webp",
+    "static/media/bear02.19f663ad.webp": "/memory-card/static/media/bear02.19f663ad.webp",
+    "static/media/bear03.c99e42cd.webp": "/memory-card/static/media/bear03.c99e42cd.webp",
+    "static/media/bear04.553b0d10.webp": "/memory-card/static/media/bear04.553b0d10.webp",
+    "static/media/bear05.6799a2d1.webp": "/memory-card/static/media/bear05.6799a2d1.webp",
+    "static/media/bear06.74531d23.webp": "/memory-card/static/media/bear06.74531d23.webp",
+    "static/media/bear07.6a862147.webp": "/memory-card/static/media/bear07.6a862147.webp",
+    "static/media/bear08.67d8e026.webp": "/memory-card/static/media/bear08.67d8e026.webp",
+    "static/media/bear09.6043582f.webp": "/memory-card/static/media/bear09.6043582f.webp",
+    "static/media/bear10.d94e3ad7.webp": "/memory-card/static/media/bear10.d94e3ad7.webp",
+    "static/media/bear11.9628184e.webp": "/memory-card/static/media/bear11.9628184e.webp",
+    "static/media/bear12.fa0b4f58.webp": "/memory-card/static/media/bear12.fa0b4f58.webp",
+    "static/media/helpicon.8a2faa64.svg": "/memory-card/static/media/helpicon.8a2faa64.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fb1b7bf.js",
+    "static/js/2.f9e3e5bb.chunk.js",
+    "static/css/main.eceadaa4.chunk.css",
+    "static/js/main.faa0977a.chunk.js"
+  ]
+}
