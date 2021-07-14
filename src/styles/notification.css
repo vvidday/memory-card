@@ -1,0 +1,51 @@
+.notification-container {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(20, 20, 20, 0.5);
+  display: flex;
+  justify-content: center;
+}
+
+.notification-box {
+  margin: 5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 50%;
+  height: 20%;
+  background-color: #424242;
+  border: 2px solid #121212;
+  font-size: 2rem;
+  padding: 1rem;
+}
+
+.notification-button {
+  width: auto;
+  background-color: transparent;
+  border: 1px solid #424242;
+  color: honeydew;
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  padding: 0.5rem 1rem;
+}
+
+.notification-button:hover {
+  cursor: pointer;
+  transform: translateY(-5px);
+  border-bottom: 1px solid white;
+}
+
+@media screen and (max-width: 1200px) {
+  .notification-box {
+    height: 50%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .notification-box {
+    width: 80%;
+    height: 80%;
+  }
+}

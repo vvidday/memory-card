@@ -1,0 +1,13 @@
+#gamegrid {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+}
+
+@media screen and (min-width: 1600px) {
+  #gamegrid {
+    width: 1600px;
+  }
+}

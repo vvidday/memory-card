@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "Nunito";
+  src: url(../Nunito-Regular.ttf);
+}
+
+:root {
+  font-size: 10px;
+  font-family: "Nunito", sans-serif;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 1.6rem;
+  text-align: center;
+  background-color: #212121;
+  color: honeydew;
+}
+
+h1 {
+  margin: 0;
+}
+
+#info-button {
+  height: 32px;
+  width: 32px;
+  padding: 0;
+  border-radius: 50%;
+  border: transparent;
+  background-color: #212121;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+
+#info-button:hover {
+  transform: scale(110%);
+}
+
+@media screen and (max-width: 400px) {
+  #info-button {
+    top: 60px;
+  }
+}
